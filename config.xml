@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "https://www.maratnikandrov.press/?m=1"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>ТЕСТ. Марат Никандров</name>
+    <name>Марат Никандров</name>
 
     <description>
         Новостной блог Марата Никандрова
