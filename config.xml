@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "press.maratnikandrov.app"
         versionCode = "10"
-        version     = "1.7.0">
+        version     = "1.8.0">
 
-    <name>Марат Никандров</name>
+    <name>Marat Nikandrov</name>
 
     <description>
         Marat Nikandrov's app
@@ -78,7 +78,7 @@
     </platform>
 
     <platform name="winphone">
-        <icon src="res/windows/icon/ae1e2dc8ee9a8e40d41050b06bfd957a.png" target="StoreLogo" />
+        <icon src="res/windows/icon/3d82167ad23d2e78601e60b5fd93b708.png" target="StoreLogo" />
         <icon src="res/windows/icon/65438b6b10979b0d21444228df45d1d2.png" target="Square30x30Logo" />
         <icon src="res/windows/icon/08d7332ebd2dbac39e6e090489e3c24f.png" target="Square44x44Logo" />
         <icon src="res/windows/icon/dac2aac0372c6bbdcc282f761b9cc106.png" target="Square70x70Logo" />
