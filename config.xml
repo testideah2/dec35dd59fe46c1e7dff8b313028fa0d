@@ -5,12 +5,12 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "press.maratnikandrov.app"
         versionCode = "10"
-        version     = "1.8.0">
+        version     = "1.9.0">
 
     <name>Marat Nikandrov</name>
 
     <description>
-        Marat Nikandrov's app
+        Marat Nikandrov
     </description>
 
     <author>Tadapp</author>
